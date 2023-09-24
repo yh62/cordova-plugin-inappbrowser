@@ -1,4 +1,4 @@
-#### # 코드 수정 경로
+#### # 코드 수정된 경로
 
 > cordova-plugin-inappbrowser/src/android/InAppBrowser.java
 
