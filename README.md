@@ -4,8 +4,8 @@
 
 
 #### # 비디오 전체 화면 모드일 때, 노치 부분 숨김
-    781 line 구문변경: attrs.flags |= WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS;
-    800 line 구문변경: attrs.flags &= ~WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS;
+    781 line 구문 변경: attrs.flags |= WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS;
+    800 line 구문 변경: attrs.flags &= ~WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS;
 
      
 #### # 비디오 전체 화면 모드 실행 후.. 북마크 Input 태그에 포커스 안되는 현상 해결
