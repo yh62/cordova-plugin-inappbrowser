@@ -1031,7 +1031,7 @@ public class InAppBrowser extends CordovaPlugin {
                             {
                                 disableFullScreen(activity, window);
                             }
-                            activity.setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_SENSOR_PORTRAIT);
+                            activity.setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_UNSPECIFIED);
                         }
                     }
                 });
