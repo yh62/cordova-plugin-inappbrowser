@@ -12,7 +12,7 @@
     807 lien 구문 추가: inAppWebView.clearFocus();
 
 
-### # 비디오 전체 화면 모드 실행 후.. 화면 전환이 안되는 현상 해결
+### # 비디오 전체 화면 모드 실행 후.. 화면 회전 변경이 안되는 현상 해결
     1034 lien 구문 변경: activity.setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_UNSPECIFIED);
     
 
